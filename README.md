@@ -25,7 +25,7 @@ No guidelines at this time.
 Feel free to contact me for any test ideas. 
 
 ## Visuals
-![screenshot of budget tracker app](/assets/screenshot-budget-tracker.PNG);
+![screenshot of budget tracker app](public/assets/screenshot-budget-tracker.PNG);
 
 
 ## Links
