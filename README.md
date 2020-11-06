@@ -42,7 +42,7 @@ Feel free to contact me for any test ideas.
 
 ## Links
 To Repo: https://github.com/kbnewlon/progressive-budget-tracker
-<br>Visit the deployed app on Heroku to demo:
+<br>Visit the deployed app on Heroku to demo: https://progressive-budget-tracker-kbn.herokuapp.com/ 
  
 
 ## Questions 
