@@ -3,7 +3,7 @@
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the user can populate the total when brought back online.
 
 ![issues](https://img.shields.io/github/issues/kbnewlon/progressive-budget-tracker)
-![GitHub top language](https://img.shields.io/github/languages/top/kbnewlon/progressive-budget-tracke)
+![GitHub top language](https://img.shields.io/github/languages/top/kbnewlon/progressive-budget-tracker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description 
@@ -45,7 +45,7 @@ Feel free to contact me for any test ideas.
 ![]();
 
 ## Links
-To Repo: https://github.com/kbnewlon/progressive-budget-tracke
+To Repo: https://github.com/kbnewlon/progressive-budget-tracker
 <br>Visit the deployed app on Heroku to demo:
  
 
