@@ -5,7 +5,6 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const staticFilesToPreCache = [
     "/",
     "/db.js",
-    "/favicon.ico",
     "/manifest.webmanifest",
     "./styles.css",
     "/icons/icon-192x192.png",
